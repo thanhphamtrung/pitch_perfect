@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  PitchPerfect
+//  pitch_perfect
 //
-//  Created by Thanh Pham on 19/05/2022.
+//  Created by Thanh Pham on 25/06/2022.
 //
 
 import UIKit
